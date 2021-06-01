@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/redux-example/static/css/main.817cae30.chunk.css",
+    "main.js": "/redux-example/static/js/main.08baaf5b.chunk.js",
+    "main.js.map": "/redux-example/static/js/main.08baaf5b.chunk.js.map",
+    "runtime-main.js": "/redux-example/static/js/runtime-main.3741a0b0.js",
+    "runtime-main.js.map": "/redux-example/static/js/runtime-main.3741a0b0.js.map",
+    "static/js/2.3248a4f5.chunk.js": "/redux-example/static/js/2.3248a4f5.chunk.js",
+    "static/js/2.3248a4f5.chunk.js.map": "/redux-example/static/js/2.3248a4f5.chunk.js.map",
+    "static/js/3.8e9e164f.chunk.js": "/redux-example/static/js/3.8e9e164f.chunk.js",
+    "static/js/3.8e9e164f.chunk.js.map": "/redux-example/static/js/3.8e9e164f.chunk.js.map",
+    "index.html": "/redux-example/index.html",
+    "static/css/main.817cae30.chunk.css.map": "/redux-example/static/css/main.817cae30.chunk.css.map",
+    "static/js/2.3248a4f5.chunk.js.LICENSE.txt": "/redux-example/static/js/2.3248a4f5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/redux-example/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3741a0b0.js",
+    "static/js/2.3248a4f5.chunk.js",
+    "static/css/main.817cae30.chunk.css",
+    "static/js/main.08baaf5b.chunk.js"
+  ]
+}
